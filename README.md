@@ -1,6 +1,6 @@
 #### Hi, I'm Pierpaolo 👋
 
-Backend, Distributed Systems & Application Security Engineer. I build lightweight, resilient software in **Rust** and **Python**, and contribute to open-source infrastructure. 
+Backend, Distributed Systems & Application Security Engineer.
 
 ##### Featured Projects
 
