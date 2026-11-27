@@ -14,5 +14,5 @@ Backend, Distributed Systems & Application Security Engineer.
 * * **[antirez/ds4 (DwarfStar 4)](https://github.com/antirez/ds4/issues?q=is%3Aissue+author%3APierpaolo1223+%22%5BSECURITY%5D%22+in%3Atitle)** — Reported 2 security bugs on Salvatore Sanfilippo's local inference engine (1 resolved/closed, 1 currently in progress).
 
 ##### Security Research & Responsible Disclosure
-
+- **[rabbitmq/rabbitmq-server (GHSA-c22p-g5xq-x5jm)](https://github.com/rabbitmq/rabbitmq-server/security/advisories/GHSA-c22p-g5xq-x5jm)** — Discovered and reported a High-severity Cross-Site Request Forgery (CSRF) vulnerability in the Management API via `text/plain` interpretation conflict (CVSS 7.6), patched across RabbitMQ 3.13.x through 4.4.x.
 * Active security audits and coordinated vulnerability disclosures (currently under triage/remediation) affecting major ecosystem tools and platforms, including **RabbitMQ Server**, **CrewAI**, and **PagoPA**.
